@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ac3d5c54b49daec45b7220bd02cb789c
+labels:
+- Environment
+- Material
+- Sky
+- Skybox
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 82415384b50cf874b9a837a7427190b2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back
+    100002: //RootNode
+    100004: Front
+    100006: Hinge
+    100008: LeftSide
+    100010: MineCartHandle
+    100012: MinecartWheel1
+    100014: MinecartWheel2
+    100016: MinecartWheel3
+    100018: MinecartWheel4
+    100020: MineShaftCart
+    100022: RightSide
+    100024: Strut
+    100026: Strut1
+    100028: Handle
+    100030: MineCart
+    100032: MineShaftCartBase
+    100034: Axles
+    100036: LowerBas
+    100038: UpperBase
+    400000: Back
+    400002: //RootNode
+    400004: Front
+    400006: Hinge
+    400008: LeftSide
+    400010: MineCartHandle
+    400012: MinecartWheel1
+    400014: MinecartWheel2
+    400016: MinecartWheel3
+    400018: MinecartWheel4
+    400020: MineShaftCart
+    400022: RightSide
+    400024: Strut
+    400026: Strut1
+    400028: Handle
+    400030: MineCart
+    400032: MineShaftCartBase
+    400034: Axles
+    400036: LowerBas
+    400038: UpperBase
+    2100000: Materials_RedMetal
+    2100002: Materials_LightGreyMetal
+    2100004: Materials_DarkSoil
+    2100006: Materials_DarkRope
+    2100008: Halloween_Material
+    2300000: Back
+    2300002: Front
+    2300004: Hinge
+    2300006: LeftSide
+    2300008: MineCartHandle
+    2300010: MinecartWheel1
+    2300012: MinecartWheel2
+    2300014: MinecartWheel3
+    2300016: MinecartWheel4
+    2300018: MineShaftCart
+    2300020: RightSide
+    2300022: Strut
+    2300024: Strut1
+    2300026: Handle
+    2300028: MineShaftCartBase
+    2300030: Axles
+    2300032: LowerBas
+    2300034: UpperBase
+    3300000: Back
+    3300002: Front
+    3300004: Hinge
+    3300006: LeftSide
+    3300008: MineCartHandle
+    3300010: MinecartWheel1
+    3300012: MinecartWheel2
+    3300014: MinecartWheel3
+    3300016: MinecartWheel4
+    3300018: MineShaftCart
+    3300020: RightSide
+    3300022: Strut
+    3300024: Strut1
+    3300026: Handle
+    3300028: MineShaftCartBase
+    3300030: Axles
+    3300032: LowerBas
+    3300034: UpperBase
+    4300000: MineCartHandle
+    4300002: Hinge
+    4300004: Strut
+    4300006: Strut1
+    4300008: MineShaftCart
+    4300010: Front
+    4300012: RightSide
+    4300014: LeftSide
+    4300016: Back
+    4300018: MinecartWheel1
+    4300020: MinecartWheel2
+    4300022: MinecartWheel3
+    4300024: MinecartWheel4
+    4300026: Handle
+    4300028: MineShaftCartBase
+    4300030: LowerBas
+    4300032: UpperBase
+    4300034: Axles
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materials_DarkRope
+    second: {fileID: 2100000, guid: 780c46f6f7a0d54479330eabbb913be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materials_DarkSoil
+    second: {fileID: 2100000, guid: fd355b4a39efd504c8efb6b84cc611e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materials_LightGreyMetal
+    second: {fileID: 2100000, guid: a6ef70cc226177f48979070291315069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materials_RedMetal
+    second: {fileID: 2100000, guid: 216d3ebc9391e0347948e8d268c2b241, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

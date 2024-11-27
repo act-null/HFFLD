@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ba0d13796b8f5924d91df76d34ad5dfa
+labels:
+- DarkStone
+- Door
+- Edge
+- Environment
+- LightStone
+- Stone
+- Straight
+- Wall
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

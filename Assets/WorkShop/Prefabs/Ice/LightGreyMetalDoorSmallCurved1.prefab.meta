@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9f3697333ce54d43b457712af1f9032
+labels:
+- Door
+- Edge
+- LightGreyMetal
+- Mech
+- Metal
+- Wall
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cddee6f01a04fb94ebe4563c5844f93a
+labels:
+- Bridge
+- Decoration
+- Environment
+- Floor
+- LightStone
+- Stone
+- Straight
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

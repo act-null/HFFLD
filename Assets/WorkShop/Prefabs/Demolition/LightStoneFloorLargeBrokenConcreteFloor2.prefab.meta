@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6989b9bb2b9403478e4245d2a43ec4b
+labels:
+- Environment
+- Floor
+- LightStone
+- Metal
+- RustedMetal
+- Stone
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

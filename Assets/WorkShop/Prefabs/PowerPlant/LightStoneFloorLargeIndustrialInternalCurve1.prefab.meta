@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea3794231f1f2234595ccf434b01585d
+labels:
+- DarkStone
+- Edge
+- Environment
+- Floor
+- InternalCurve
+- LightStone
+- Stone
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

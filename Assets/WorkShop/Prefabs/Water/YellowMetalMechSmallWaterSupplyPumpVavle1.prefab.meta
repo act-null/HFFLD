@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e524a3647b4091642baa5131dcd1336d
+labels:
+- BlueMetal
+- DarkGreyMetal
+- Environment
+- Floor
+- LightGreyMetal
+- Metal
+- YellowMetal
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

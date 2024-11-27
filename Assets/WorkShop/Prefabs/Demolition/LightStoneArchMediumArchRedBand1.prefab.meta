@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23f783b396eb0ee4aac08a4121568765
+labels:
+- Door
+- Environment
+- LightStone
+- RustedMetal
+- Stone
+- Wall
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

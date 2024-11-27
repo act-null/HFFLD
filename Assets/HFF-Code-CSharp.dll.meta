@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: c386120fc5e1d664eaf46f801f628209
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: 
+    HFFResources: -120
+    TMPro.TextContainer: -110
+    TMPro.TextMeshPro: -108
+    HumanAPI.SoundSourcePool: -105
+    InControl.InControlManager: -100
+    TMPro.TextMeshProUGUI: -100
+    HumanAPI.SoundLibrary: -99
+    HumanAPI.SoundManager: -98
+    InControl.TestInputManager: -50
+    Ragdoll: -20
+    Multiplayer.NetPlayer: -5
+    Multiplayer.NetGamePre: -3
+    HumanAPI.BuiltinLevel: -2
+    Multiplayer.NetGamePost: 150
+    CloudRender: 100
+    HumanAudio: 200
+    CloudSystem: 300
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+  - first:
+      Any: 
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  - first:
+      Windows Store Apps: WindowsStoreApps
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
