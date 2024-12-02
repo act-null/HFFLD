@@ -1,12 +1,14 @@
 Base path: D:/Program Files/Unity/2017.4.13f1/Editor/Data
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
-  api=4 insize=10879 outsize=9849 ok=1
+  api=15 insize=10879 outsize=17849 ok=1
 Cmd: compileComputeKernel
-  api=4 insize=18297 outsize=8693 ok=1
+  api=4 insize=4845 outsize=4101 ok=1
 Cmd: compileComputeKernel
-  api=15 insize=18297 outsize=24693 ok=1
+  api=15 insize=3394 outsize=5773 ok=1
 Cmd: compileComputeKernel
-  api=4 insize=2042 outsize=1033 ok=1
+  api=4 insize=18297 outsize=8925 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=18297 outsize=23969 ok=1
 
 Quitting shader compiler process
