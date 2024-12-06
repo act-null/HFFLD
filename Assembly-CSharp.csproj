@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Level1\WheelAndSculptureController.cs" />
      <Compile Include="Assets\spin.cs" />
      <None Include="Assets\Fonts\CharSets\writtenBy.txt" />
      <None Include="Assets\PP\PP\Shaders\Builtins\FinalPass.shader" />
