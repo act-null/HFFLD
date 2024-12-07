@@ -141,9 +141,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   id: 0
-  showDebug: 0
   pitch: 1
   volume: 1
+  showDebug: 0
 --- !u!114 &114952422162569846
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -173,12 +173,14 @@ MonoBehaviour:
   posPrecision: 0
   rotPrecision: 3
   smooth: 0
-  respawn: 0
+  respawn: 1
   despawnHeight: -50
   respawnHeight: 5
   isKinematic: 0
+  manageActive: 1
   m_respawnEvent:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  syncLocalScale: 0

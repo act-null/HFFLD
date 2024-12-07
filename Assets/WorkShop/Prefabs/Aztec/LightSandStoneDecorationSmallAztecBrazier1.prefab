@@ -310,7 +310,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: c89c4eb82241f9f4aacf919368393492, type: 2}
-  - {fileID: 2100000, guid: 55af61a53c4d47545945226a1de6749c, type: 2}
+  - {fileID: 2100000, guid: 05b0bc242c51e6e449da76c9a7e25e45, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -488,6 +488,7 @@ MonoBehaviour:
   additionalColliders: []
   outputValueInside: 1
   outputValueOutside: 0
+  isPlayerCheckOnActivateAndDeactivate: 0
   activateOnEnter:
   - {fileID: 1326444640204628}
   - {fileID: 1086051220460018}
@@ -498,6 +499,7 @@ MonoBehaviour:
   - {fileID: 1543823616825500}
   runExitLogicAtStartup: 1
   trackColliders: 1
+  useChildTriggers: 0
 --- !u!114 &114240349946905560
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -537,12 +539,14 @@ MonoBehaviour:
   additionalColliders: []
   outputValueInside: 1
   outputValueOutside: 0
+  isPlayerCheckOnActivateAndDeactivate: 0
   activateOnEnter:
   - {fileID: 1074209355888078}
   deactivateOnExit:
   - {fileID: 1074209355888078}
   runExitLogicAtStartup: 0
   trackColliders: 1
+  useChildTriggers: 0
 --- !u!114 &114302917073819658
 MonoBehaviour:
   m_ObjectHideFlags: 1
