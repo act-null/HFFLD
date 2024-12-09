@@ -51,7 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Level1\WheelAndSculptureController.cs" />
+     <Compile Include="Assets\Level1\EggCollectionAndPillarMovement.cs" />
+     <Compile Include="Assets\Level1\SingleWheelAndCageController.cs" />
+     <Compile Include="Assets\Level2\ApplyForceToSelf.cs" />
+     <Compile Include="Assets\Level2\ObjectInteraction.cs" />
+     <Compile Include="Assets\Level2\ThornInteraction.cs" />
+     <Compile Include="Assets\Level2\ZAxisLoopMovement.cs" />
      <Compile Include="Assets\spin.cs" />
      <None Include="Assets\Fonts\CharSets\writtenBy.txt" />
      <None Include="Assets\PP\PP\Shaders\Builtins\FinalPass.shader" />
