@@ -57,6 +57,15 @@
      <Compile Include="Assets\Level2\ObjectInteraction.cs" />
      <Compile Include="Assets\Level2\ThornInteraction.cs" />
      <Compile Include="Assets\Level2\ZAxisLoopMovement.cs" />
+     <Compile Include="Assets\Level3\HornTrigger.cs" />
+     <Compile Include="Assets\Level3\PandorasBox.cs" />
+     <Compile Include="Assets\Level3\RotateAroundX.cs" />
+     <Compile Include="Assets\Level3\SpecialThornInteraction.cs" />
+     <Compile Include="Assets\Level3\TorchPlatformManager.cs" />
+     <Compile Include="Assets\Level4\RotateAroundY.cs" />
+     <Compile Include="Assets\Level4\TridentBehavior.cs" />
+     <Compile Include="Assets\Level4\WaterAreaForce.cs" />
+     <Compile Include="Assets\Level4\WaterspoutGenerator.cs" />
      <Compile Include="Assets\spin.cs" />
      <None Include="Assets\Fonts\CharSets\writtenBy.txt" />
      <None Include="Assets\PP\PP\Shaders\Builtins\FinalPass.shader" />

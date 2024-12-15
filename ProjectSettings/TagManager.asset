@@ -11,6 +11,9 @@ TagManager:
   - Level
   - WasOccluder
   - Torch
+  - WindAffectedObject
+  - SpecialThorn
+  - Level4candle
   layers:
   - Default
   - TransparentFX
