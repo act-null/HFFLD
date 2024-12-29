@@ -14,6 +14,10 @@ TagManager:
   - WindAffectedObject
   - SpecialThorn
   - Level4candle
+  - Sword
+  - XXFSstone
+  - Mirror
+  - Barrier
   layers:
   - Default
   - TransparentFX
